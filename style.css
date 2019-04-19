@@ -1,0 +1,18 @@
+.maindiv{
+	max-width: 600px;
+	margin: 0 auto;
+	border: 5px solid lightcoral;
+	width: 30%;
+	height: 800px;
+	padding: 10px 10px 10px 10px;
+	padding-left: 20px;
+}
+.button{
+    background-color: mediumorchid;
+    padding:9px;
+    border: 0;
+}
+#resultimg{
+max-width: 100%;
+max-height:28%;
+}
