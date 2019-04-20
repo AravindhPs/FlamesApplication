@@ -1,9 +1,9 @@
 .maindiv{
-	max-width: 600px;
+	max-width: 800px;
 	margin: 0 auto;
-	border: 5px solid lightcoral;
-	width: 30%;
-	height: 800px;
+	border: 3px dashed rgb(145, 97, 97);
+	width: 40%;
+	height: 700px;
 	padding: 10px 10px 10px 10px;
 	padding-left: 20px;
 }
@@ -13,6 +13,6 @@
     border: 0;
 }
 #resultimg{
-max-width: 100%;
+max-width: 70%;
 max-height:28%;
 }
